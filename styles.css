@@ -27,7 +27,7 @@ body{
     
 }
 .card-header{
-    background-image: url("profile-card-component-main/images/bg-pattern-card.svg");
+    background-image: url("./images/bg-pattern-card.svg");
     background-size: cover;
     height: 150px;
 }
